@@ -13,7 +13,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 
 public class DAO {
-	static String fileLocation="C:\\Users\\Surendaar\\Downloads\\Desktop\\f\\JSONfilePretty.json";
+	static String fileLocation="C:\\Users\\JSONfilePretty.json";
 	static File file = new File(fileLocation);
 
 	private static boolean checkFileSize(File file2) {
